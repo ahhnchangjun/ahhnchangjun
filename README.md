@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Countinual Learning, 
 - 💞️ I’m looking to collaborate on ...
 
-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=로고명&logoColor=orange"/>
+- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=orange"/>
 
