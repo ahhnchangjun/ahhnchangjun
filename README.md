@@ -1,5 +1,5 @@
 **Who Am I**
-- 👋 Hi, I’m @ahhnchangjun.
+- 👋 Hi, I’m Changjun Ahn.
 - 👀 I'm interested in dealing with pytorch and Tensowflow.
 - 🏠 My hometown is Anyang, Gyeonggi but Now, I'm live in Daejeon.
 
