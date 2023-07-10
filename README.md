@@ -10,4 +10,4 @@
 
 논문 리뷰 내용과 업로드된 코드 작성본 중 어떠한 피드백은 환영입니다!
 
-Contact to me <a href="https://www.instagram.com/ahhnchangjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qkqk1009@gmail.com)
+Contact to me 👉 <a href="https://www.instagram.com/ahhnchangjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qkqk1009@gmail.com)
