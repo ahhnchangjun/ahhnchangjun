@@ -1,6 +1,6 @@
 **Who Am I**
 - 👋 Hi, I’m Changjun Ahn.
-- 👀 I'm interested in dealing with pytorch and Tensowflow.
+- 👀 I'm interested in dealing with PyTorch and Tensowflow.
 - 🏠 My hometown is Anyang, Gyeonggi but Now, I'm live in Daejeon.
 
   
