@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahhnchangjun%2Fhit-counter&count_bg=%2353B8EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahhnchangjun%2Fhit-counter&count_bg=%2353B8EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" style="max-width: 100%;"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahhnchangjun%2Fhit-counter&count_bg=%2353B8EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false" alt="Hits" style="max-width: 100%;"/>
 </a>
 </div>
 
@@ -11,7 +11,7 @@
 ## Introduction 👋
 
 👋 Hi, I’m Changjun Ahn.<br>
-👀 I'm interested in Computer Vision with Deep Learning.<br>
+👀 I'm interested in Computer Vision with Deep Learing.<br>
 🏠 My hometown is Anyang, Gyeonggi but Now, I'm live in Daejeon.
 
   
@@ -39,5 +39,13 @@ Segmentation과 Continual Learning에 관심이 많고, 대학원 진학을 준�
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=Gmail&logoColor=white)](mailto:qkqk1009@gmail.com)
 
 </div>
+
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahhnchangjun&show_icons=true&theme=transparent" width="50%" />
+  <a href="https://solved.ac/qkqk1009">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=qkqk1009" width="45%" />
+  </a>
+</p>
 
 
