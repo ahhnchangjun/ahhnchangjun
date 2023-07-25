@@ -2,8 +2,8 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahhnchangjun%2Fhit-counter&count_bg=%2353B8EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahhnchangjun%2Fhit-counter&count_bg=%2353B8EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false" alt="Hits" style="max-width: 100%;"/>
-</a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahhnchangjun%2Fhit-counter&count_bg=%2353B8EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false" alt="GITHUB" style="max-width: 100%;"/>
+ </a>
 </div>
 
 <div align=center>
