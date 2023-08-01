@@ -19,7 +19,7 @@ Segmentation과 Continual Learning에 관심이 많고, 대학원 진학을 준�
 
 관련 논문을 리뷰하며, 실험해보고 성능을 논문과 비교해보고 있습니다.
 
-주 노션에서 논문 리뷰를 하고 있습니다. 👉 [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)](https://chatter-icecream-ccc.notion.site/Paper-Review-2e59a17de1774cfbbd866e7b02d82884?pvs=4)
+주로 노션에서 논문 리뷰를 하고 있습니다. 👉 [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)](https://chatter-icecream-ccc.notion.site/Paper-Review-2e59a17de1774cfbbd866e7b02d82884?pvs=4)
 
 논문 리뷰 외에 평소에 공부하며 새로 알게된 지식에 대해 정리하고 있습니다. 
 👉 [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)](https://chatter-icecream-ccc.notion.site/Artificial-Intelligence-689ef72954b0404aa65d6e43bf6e348d?pvs=4)
