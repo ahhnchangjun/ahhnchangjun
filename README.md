@@ -17,9 +17,10 @@ My research focuses on enabling deep learning models to learn continuously and r
 
 ## Research Interests
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-53B8EC?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4A90D9?style=for-the-badge)
-![Continual Learning](https://img.shields.io/badge/Continual%20Learning-3A7BD5?style=for-the-badge)
+![Continual Learning](https://img.shields.io/badge/Continual%20Learning-53B8EC?style=for-the-badge)
+![Knowledge Distillation](https://img.shields.io/badge/Knowledge%20Distillation-4A90D9?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-3A7BD5?style=for-the-badge)
+![Test-Time Adaptation](https://img.shields.io/badge/Test--Time%20Adaptation-2E64C8?style=for-the-badge)
 
 <br/>
 
@@ -35,13 +36,6 @@ My research focuses on enabling deep learning models to learn continuously and r
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/qkqk1009@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:qkqk1009@gmail.com)
-
-<br/>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahhnchangjun&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhnchangjun&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 
 </div>
 
