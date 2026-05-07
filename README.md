@@ -36,6 +36,7 @@ My research focuses on enabling deep learning models to learn continuously and r
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/qkqk1009@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:qkqk1009@gmail.com)
+[![Korea Univ](https://img.shields.io/badge/ahhnchangjun@korea.ac.kr-BE0000?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahhnchangjun@korea.ac.kr)
 
 </div>
 
